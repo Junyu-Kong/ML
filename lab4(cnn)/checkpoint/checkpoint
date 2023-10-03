@@ -1,2 +1,0 @@
-model_checkpoint_path: "ResNet18.ckpt"
-all_model_checkpoint_paths: "ResNet18.ckpt"
